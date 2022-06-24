@@ -1,0 +1,69 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAN BREDERECKE on JAN BREDERECKE</title>
+    <link>https://example.com/</link>
+    <description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>
+
+
+&lt;div id=&#34;background&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;BACKGROUND&lt;/h2&gt;
+&lt;p&gt;I am a former researcher in psycho-oncology and currently work in the domain of
+cardiological epidemiology. Here I use a mixture of classical statistical
+and modern machine learning methods to build prediction models for the onset of
+cardiovascular disease.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publications&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;PUBLICATIONS&lt;/h2&gt;
+&lt;div id=&#34;research&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;RESEARCH&lt;/h3&gt;
+&lt;p&gt;As a researcher I have authored and co-authored several research papers and
+posters, most of which can be found
+&lt;a href=&#34;https://scholar.google.com/citations?user=fzccSmMAAAAJ/&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-packages&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;R PACKAGES&lt;/h3&gt;
+&lt;p&gt;I am also a developer of R packages
+&lt;a href=&#34;https://github.com/janbrederecke/prepareD/&#34;&gt;&lt;strong&gt;prepareD&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/janbrederecke/analyzeD/&#34;&gt;&lt;strong&gt;analyzeD&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/janbrederecke/visualizeD/&#34;&gt;&lt;strong&gt;visualizeD&lt;/strong&gt;&lt;/a&gt;,
+and &lt;a href=&#34;https://github.com/janbrederecke/predicteD/&#34;&gt;&lt;strong&gt;predicteD&lt;/strong&gt;&lt;/a&gt;
+that are designed to improve data analysis workflows in my
+current projects. In addition, I am a contributor to the &lt;a href=&#34;https://github.com/johnkarlen/climbeR/&#34;&gt;&lt;strong&gt;climbeR&lt;/strong&gt;&lt;/a&gt; package
+that can be used to visualize results of random forest models and will soon be
+available again on CRAN.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lately&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;LATELY&lt;/h2&gt;
+&lt;div id=&#34;r-shiny&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;R SHINY&lt;/h3&gt;
+&lt;p&gt;I currently work on the development of multiple Shiny apps e.g. for the
+European Heart Failure Score project and others.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/posts/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
