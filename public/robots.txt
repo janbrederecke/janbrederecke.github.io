@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://janbrederecke.github.io/website/sitemap.xml
+Sitemap: https://janbrederecke.github.io/sitemap.xml
