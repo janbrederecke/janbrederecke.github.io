@@ -1,7 +1,7 @@
 <nav class="navbar">
     <div class="container">
         <div class="navbar-header header-logo">
-          <a href="{{ .Site.BaseURL }}"> <img src = {{ .Site.Params.pic }} width = 100> </a>
+          <a href="{{ .Site.BaseURL }}" > <img src = {{ .Site.Params.pic }} width = 150></a>
         </div>
         <div class="menu navbar-right">
                 {{ $currentPage := . }}
@@ -16,7 +16,7 @@
      <div class="container">
         <div class="navbar-header">
             
-            <div> <a href="{{.Site.BaseURL}}" class="pic"><img src = {{ .Site.Params.pic }} width = 90> </a></div>
+            <div> <a href="{{.Site.BaseURL}}" class="header-logo-mobile" ><img src = {{ .Site.Params.pic }} width = 90> </a></div>
             
             <div> <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>
             </div>

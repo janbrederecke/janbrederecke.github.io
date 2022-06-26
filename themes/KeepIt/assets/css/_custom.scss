@@ -76,13 +76,14 @@
     width: 100%;
     max-width: 780px;
     margin: 0 auto;
-    padding-top: 1.5rem;
+    padding-top: 1rem;
 
     .post-header h1 {
         margin: 0 !important;
     }
 
     .post-title {
+        padding-top: 4rem;
         font-size: 2em;
         line-height: 1.5em;
     }
@@ -116,8 +117,8 @@
         h4,
         h5,
         h6 {
-            padding-top: .2em;
-            padding-bottom: .3em;
+            padding-top: .1em;
+            padding-bottom: .1em;
         }
         h2::before {
             content: "";
@@ -238,6 +239,7 @@
     p {
         font-size: 1em;
         margin: .5em 0 .5em 0;
+        margin-left: 1em;
     }
 
     .post-copyright {
