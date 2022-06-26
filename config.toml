@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "JAN BREDERECKE"
 theme = "KeepIt"
 
-paginate = 12
+paginate = 10
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""

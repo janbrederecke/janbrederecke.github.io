@@ -1,9 +1,9 @@
 ---
-title: "TEST"
+title: "How to blog with blogdown, Hugo, and the KeepIt theme"
 author: "Jan Brederecke"
 date: "`r Sys.Date()`"
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R"]
 ---
 
 ```{r setup, include=FALSE}

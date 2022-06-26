@@ -9,9 +9,9 @@
     transform: translateY(25vh);
     text-align: center;
     .avatar {
-      padding:15px;
+      padding:0px;
       img {
-        width: 150px;
+        width: 100px;
         height: auto;
         display: inline-block;
         -webkit-border-radius: 100%;
@@ -38,35 +38,35 @@
   }
   
   h1.description {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
-    padding: 5px;
+    padding: 2px;
   }
   
   h3.description {
     font-size: 1em;
     font-weight: bold;
-    padding: 5px;
+    padding: 2px;
   }
   
   
   h2.description {
     font-size: 1em;
     font-weight: normal;
-    padding: 5px;
+    padding: 2px;
   }
   
   .social-links {
     a {
     
-      padding: 0 5px;
+      padding: 3px;
       &:hover {
        
         background-color: transparent;
       }
     }
     .iconfont {
-      font-size: 2em;
+      font-size: 1.5em;
     }
   }
 /** Post **/
