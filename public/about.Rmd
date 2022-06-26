@@ -7,19 +7,19 @@ date: '2022-06-24'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## BACKGROUND
+# BACKGROUND
 I am a former researcher in psycho-oncology and currently work in the domain of
 cardiological epidemiology. Here I use a mixture of classical statistical
 and modern machine learning methods to build prediction models for the onset of
 cardiovascular disease.
 
-## PUBLICATIONS
-### RESEARCH
+# PUBLICATIONS
+## RESEARCH
 As a researcher I have authored and co-authored several research papers and
 posters, most of which can be found
 [**here**](https://scholar.google.com/citations?user=fzccSmMAAAAJ/).
 
-### R PACKAGES
+## R PACKAGES
 I am also a developer of R packages
 [**prepareD**](https://github.com/janbrederecke/prepareD/),
 [**analyzeD**](https://github.com/janbrederecke/analyzeD/),
@@ -30,7 +30,7 @@ current projects. In addition, I am a contributor to the [**climbeR**](https://g
 that can be used to visualize results of random forest models and will soon be
 available again on CRAN.
 
-## LATELY
-### R SHINY
+# LATELY
+## R SHINY
 I currently work on the development of multiple Shiny apps e.g. for the
 European Heart Failure Score project and others.

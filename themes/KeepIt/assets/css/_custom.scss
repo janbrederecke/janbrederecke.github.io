@@ -76,7 +76,7 @@
     width: 100%;
     max-width: 780px;
     margin: 0 auto;
-    padding-top: 2rem;
+    padding-top: 1.5rem;
 
     .post-header h1 {
         margin: 0 !important;
@@ -109,14 +109,14 @@
     }
 
     .post-content {
-        padding-top: 2rem;
+        padding-top: 0rem;
 
         h2,
         h3,
         h4,
         h5,
         h6 {
-            padding-top: .8em;
+            padding-top: .2em;
             padding-bottom: .3em;
         }
         h2::before {

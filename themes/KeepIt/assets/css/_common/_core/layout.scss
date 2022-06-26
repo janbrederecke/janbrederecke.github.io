@@ -11,6 +11,7 @@
     height: 4rem;
     line-height: 4rem;
     width: 100%;
+    position: relative;
     .container {
       width: auto;
       max-width: 1200px;
@@ -21,6 +22,17 @@
     }
   }
   
+  .navbar-mobile {
+    .theme-switch {
+      position: relative;
+      left: 50%;
+      margin-left: -35px;
+    }
+    .pic {
+      
+    }
+  }
+
   .main {
     flex: 1 0 auto;
   }
