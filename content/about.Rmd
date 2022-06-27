@@ -17,16 +17,16 @@ cardiovascular disease.
 ## RESEARCH
 As a researcher I have authored and co-authored several research papers and
 posters, most of which can be found
-[**here**](https://scholar.google.com/citations?user=fzccSmMAAAAJ/).
+[*here*](https://scholar.google.com/citations?user=fzccSmMAAAAJ/).
 
 ## R PACKAGES
 I am also a developer of R packages
-[**prepareD**](https://github.com/janbrederecke/prepareD/),
-[**analyzeD**](https://github.com/janbrederecke/analyzeD/),
-[**visualizeD**](https://github.com/janbrederecke/visualizeD/),
-and [**predicteD**](https://github.com/janbrederecke/predicteD/)
+[*prepareD*](https://github.com/janbrederecke/prepareD/),
+[*analyzeD*](https://github.com/janbrederecke/analyzeD/),
+[*visualizeD*](https://github.com/janbrederecke/visualizeD/),
+and [*predicteD*](https://github.com/janbrederecke/predicteD/)
 that are designed to improve data analysis workflows in my
-current projects. In addition, I am a contributor to the [**climbeR**](https://github.com/johnkarlen/climbeR/) package
+current projects. In addition, I am a contributor to the [*climbeR*](https://github.com/johnkarlen/climbeR/) package
 that can be used to visualize results of random forest models and will soon be
 available again on CRAN.
 

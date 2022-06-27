@@ -148,9 +148,11 @@
 
         a:hover {
             color: $light-post-link-hover-color;
+            
+            text-decoration: underline;
             .dark-theme &:hover {
                 color: $dark-post-link-hover-color;
-                font-weight: bold;
+                
                 text-decoration: underline;
             }
         }

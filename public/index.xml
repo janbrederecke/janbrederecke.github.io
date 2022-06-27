@@ -1,36 +1,36 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JAN BREDERECKE on JAN BREDERECKE</title><link>https://janbrederecke.github.io/</link><description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://janbrederecke.github.io/posts/</link><pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/posts/</guid><description/></item><item><title>ABOUT</title><link>https://janbrederecke.github.io/about/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/about/</guid><description>
-&lt;div id="background" class="section level2">
-&lt;h2>BACKGROUND&lt;/h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JAN BREDERECKE on JAN BREDERECKE</title><link>https://janbrederecke.github.io/</link><description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://janbrederecke.github.io/posts/</link><pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/posts/</guid><description/></item><item><title>ABOUT</title><link>https://janbrederecke.github.io/about/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/about/</guid><description>
+&lt;div id="background" class="section level1">
+&lt;h1>BACKGROUND&lt;/h1>
 &lt;p>I am a former researcher in psycho-oncology and currently work in the domain of
 cardiological epidemiology. Here I use a mixture of classical statistical
 and modern machine learning methods to build prediction models for the onset of
 cardiovascular disease.&lt;/p>
 &lt;/div>
-&lt;div id="publications" class="section level2">
-&lt;h2>PUBLICATIONS&lt;/h2>
-&lt;div id="research" class="section level3">
-&lt;h3>RESEARCH&lt;/h3>
+&lt;div id="publications" class="section level1">
+&lt;h1>PUBLICATIONS&lt;/h1>
+&lt;div id="research" class="section level2">
+&lt;h2>RESEARCH&lt;/h2>
 &lt;p>As a researcher I have authored and co-authored several research papers and
 posters, most of which can be found
-&lt;a href="https://scholar.google.com/citations?user=fzccSmMAAAAJ/">&lt;strong>here&lt;/strong>&lt;/a>.&lt;/p>
+&lt;a href="https://scholar.google.com/citations?user=fzccSmMAAAAJ/">&lt;em>here&lt;/em>&lt;/a>.&lt;/p>
 &lt;/div>
-&lt;div id="r-packages" class="section level3">
-&lt;h3>R PACKAGES&lt;/h3>
+&lt;div id="r-packages" class="section level2">
+&lt;h2>R PACKAGES&lt;/h2>
 &lt;p>I am also a developer of R packages
-&lt;a href="https://github.com/janbrederecke/prepareD/">&lt;strong>prepareD&lt;/strong>&lt;/a>,
-&lt;a href="https://github.com/janbrederecke/analyzeD/">&lt;strong>analyzeD&lt;/strong>&lt;/a>,
-&lt;a href="https://github.com/janbrederecke/visualizeD/">&lt;strong>visualizeD&lt;/strong>&lt;/a>,
-and &lt;a href="https://github.com/janbrederecke/predicteD/">&lt;strong>predicteD&lt;/strong>&lt;/a>
+&lt;a href="https://github.com/janbrederecke/prepareD/">&lt;em>prepareD&lt;/em>&lt;/a>,
+&lt;a href="https://github.com/janbrederecke/analyzeD/">&lt;em>analyzeD&lt;/em>&lt;/a>,
+&lt;a href="https://github.com/janbrederecke/visualizeD/">&lt;em>visualizeD&lt;/em>&lt;/a>,
+and &lt;a href="https://github.com/janbrederecke/predicteD/">&lt;em>predicteD&lt;/em>&lt;/a>
 that are designed to improve data analysis workflows in my
-current projects. In addition, I am a contributor to the &lt;a href="https://github.com/johnkarlen/climbeR/">&lt;strong>climbeR&lt;/strong>&lt;/a> package
+current projects. In addition, I am a contributor to the &lt;a href="https://github.com/johnkarlen/climbeR/">&lt;em>climbeR&lt;/em>&lt;/a> package
 that can be used to visualize results of random forest models and will soon be
 available again on CRAN.&lt;/p>
 &lt;/div>
 &lt;/div>
-&lt;div id="lately" class="section level2">
-&lt;h2>LATELY&lt;/h2>
-&lt;div id="r-shiny" class="section level3">
-&lt;h3>R SHINY&lt;/h3>
+&lt;div id="lately" class="section level1">
+&lt;h1>LATELY&lt;/h1>
+&lt;div id="r-shiny" class="section level2">
+&lt;h2>R SHINY&lt;/h2>
 &lt;p>I currently work on the development of multiple Shiny apps e.g. for the
 European Heart Failure Score project and others.&lt;/p>
 &lt;/div>
