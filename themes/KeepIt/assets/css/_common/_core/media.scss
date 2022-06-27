@@ -96,6 +96,8 @@
 
                 &.active {
                     display: block;
+                    position: relative;
+                    top: -13px;
                 }
 
                 .dark-theme & {
