@@ -8,29 +8,45 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # BACKGROUND
-I am a former researcher in psycho-oncology and currently work in the domain of
-cardiological epidemiology. Here I use a mixture of classical statistical
-and modern machine learning methods to build prediction models for the onset of
-cardiovascular disease.
+I have both a bachelor's and a master's degree in psychology. After my studies I
+initially worked as a researcher in psycho-oncology before transitioning to the
+domain of epidemiology. Here I use a mixture of classical statistical
+and modern machine learning methods to conduct lots of survival analyses in
+different cohort studies and build predictive models for the onset of
+cardiovascular disease. I have been using R since I was an undergraduate and
+still learn something R everyday! As a side-hustle I am currently finalizing
+my doctoral thesis.
+
 
 # PUBLICATIONS
 ## RESEARCH
-As a researcher I have authored and co-authored several research papers and
-posters, most of which can be found
+As a researcher / research analyst I have authored and co-authored several
+research papers, most of which should be listed
 [*here*](https://scholar.google.com/citations?user=fzccSmMAAAAJ/).
 
 ## R PACKAGES
-I am also a developer of R packages
-[*prepareD*](https://github.com/janbrederecke/prepareD/),
-[*analyzeD*](https://github.com/janbrederecke/analyzeD/),
-[*visualizeD*](https://github.com/janbrederecke/visualizeD/),
-and [*predicteD*](https://github.com/janbrederecke/predicteD/)
-that are designed to improve data analysis workflows in my
-current projects. In addition, I am a contributor to the [*climbeR*](https://github.com/johnkarlen/climbeR/) package
-that can be used to visualize results of random forest models and will soon be
-available again on CRAN.
+When I find the time, I develop R packages that are designed to improve data
+analysis workflows in my current projects.
+Right now I work on:
 
-# LATELY
+- [*prepareD*](https://github.com/janbrederecke/prepareD/) - functions for data
+preparation, project templates, and documentation.
+- [*analyzeD*](https://github.com/janbrederecke/analyzeD/) - functions for
+automated linear, logistic, and Cox regressions across multiple predictors /
+outcomes.
+- [*visualizeD*](https://github.com/janbrederecke/visualizeD/) - functions for
+often used variants of ggplot2 visualizations.
+- [*predicteD*](https://github.com/janbrederecke/predicteD/) - functions to help
+build Shiny apps based on predictive models that cannot be exporting including
+the original data (important e.g. in Cox-models).
+
+Some of the packages are still in their early development
+stages but will be be updated regularly in the future.
+Additionally, I am a contributor to the
+[*climbeR*](https://github.com/johnkarlen/climbeR/) package that is designed to
+visualize results of random forest models and will soon be available again on
+CRAN.
+
 ## R SHINY
-I currently work on the development of multiple Shiny apps e.g. for the
-European Heart Failure Score project and others.
+Lately, I developed a passion for R Shiny and I currently work on multiple
+Shiny apps e.g. for predictive scores in the domain of cardiology.

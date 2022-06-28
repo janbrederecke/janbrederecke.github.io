@@ -1,14 +1,15 @@
 <footer class="footer">
     <div class="copyright">
-        &copy;
+        |&nbsp;&copy;
         {{ with .Site.Params.since }}
         <span itemprop="copyrightYear">{{ now.Year }}</span>
         {{ end }}
          {{ if .Site.Params.author }}
-            <span class="author" itemprop="copyrightHolder"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.author  }}</a> | </span>
+            <span class="author" itemprop="copyrightHolder"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.author  }}</a>&nbsp;|&nbsp;</span>
          {{ end }}
+		  <span>MADE&nbsp;WITH&nbsp;<a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a>&nbsp;&&nbsp;<a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo&nbsp;|</a></span>
 
-		  <span>MADE WITH <a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a> & <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a></span>
+        <span><a href="https://github.com/janbrederecke/Impresssum-Imprint-Datenschutz-Privacy-Statement" target="_blank" rel="external nofollow noopener noreffer">|&nbsp;IMPRESSUM&nbsp;&&nbsp;DATENSCHUTZ&nbsp;/&nbsp;(IMPRINT&nbsp;&&nbsp;DATA&nbsp;POLICY)&nbsp;|</a></span>
     </div>
 </footer>
 
