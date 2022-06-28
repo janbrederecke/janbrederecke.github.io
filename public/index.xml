@@ -1,37 +1,50 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JAN BREDERECKE on JAN BREDERECKE</title><link>https://janbrederecke.github.io/</link><description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://janbrederecke.github.io/posts/</link><pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/posts/</guid><description/></item><item><title>ABOUT</title><link>https://janbrederecke.github.io/about/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/about/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JAN BREDERECKE on JAN BREDERECKE</title><link>https://janbrederecke.github.io/</link><description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://janbrederecke.github.io/posts/</link><pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/posts/</guid><description/></item><item><title>ABOUT</title><link>https://janbrederecke.github.io/about/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/about/</guid><description>
 &lt;div id="background" class="section level1">
 &lt;h1>BACKGROUND&lt;/h1>
-&lt;p>I am a former researcher in psycho-oncology and currently work in the domain of
-cardiological epidemiology. Here I use a mixture of classical statistical
-and modern machine learning methods to build prediction models for the onset of
-cardiovascular disease.&lt;/p>
+&lt;p>I have both a bachelor’s and a master’s degree in psychology. After my studies I
+initially worked as a researcher in psycho-oncology before transitioning to the
+domain of epidemiology. Here I use a mixture of classical statistical
+and modern machine learning methods to conduct lots of survival analyses in
+different cohort studies and build predictive models for the onset of
+cardiovascular disease. I have been using R since I was an undergraduate and
+still learn something R everyday! As a side-hustle I am currently finalizing
+my doctoral thesis.&lt;/p>
 &lt;/div>
 &lt;div id="publications" class="section level1">
 &lt;h1>PUBLICATIONS&lt;/h1>
 &lt;div id="research" class="section level2">
 &lt;h2>RESEARCH&lt;/h2>
-&lt;p>As a researcher I have authored and co-authored several research papers and
-posters, most of which can be found
+&lt;p>As a researcher / research analyst I have authored and co-authored several
+research papers, most of which should be listed
 &lt;a href="https://scholar.google.com/citations?user=fzccSmMAAAAJ/">&lt;em>here&lt;/em>&lt;/a>.&lt;/p>
 &lt;/div>
 &lt;div id="r-packages" class="section level2">
 &lt;h2>R PACKAGES&lt;/h2>
-&lt;p>I am also a developer of R packages
-&lt;a href="https://github.com/janbrederecke/prepareD/">&lt;em>prepareD&lt;/em>&lt;/a>,
-&lt;a href="https://github.com/janbrederecke/analyzeD/">&lt;em>analyzeD&lt;/em>&lt;/a>,
-&lt;a href="https://github.com/janbrederecke/visualizeD/">&lt;em>visualizeD&lt;/em>&lt;/a>,
-and &lt;a href="https://github.com/janbrederecke/predicteD/">&lt;em>predicteD&lt;/em>&lt;/a>
-that are designed to improve data analysis workflows in my
-current projects. In addition, I am a contributor to the &lt;a href="https://github.com/johnkarlen/climbeR/">&lt;em>climbeR&lt;/em>&lt;/a> package
-that can be used to visualize results of random forest models and will soon be
-available again on CRAN.&lt;/p>
+&lt;p>When I find the time, I develop R packages that are designed to improve data
+analysis workflows in my current projects.
+Right now I work on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/janbrederecke/prepareD/">&lt;em>prepareD&lt;/em>&lt;/a> - functions for data
+preparation, project templates, and documentation.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/analyzeD/">&lt;em>analyzeD&lt;/em>&lt;/a> - functions for
+automated linear, logistic, and Cox regressions across multiple predictors /
+outcomes.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/visualizeD/">&lt;em>visualizeD&lt;/em>&lt;/a> - functions for
+often used variants of ggplot2 visualizations.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/predicteD/">&lt;em>predicteD&lt;/em>&lt;/a> - functions to help
+build Shiny apps based on predictive models that cannot be exporting including
+the original data (important e.g. in Cox-models).&lt;/li>
+&lt;/ul>
+&lt;p>Some of the packages are still in their early development
+stages but will be be updated regularly in the future.
+Additionally, I am a contributor to the
+&lt;a href="https://github.com/johnkarlen/climbeR/">&lt;em>climbeR&lt;/em>&lt;/a> package that is designed to
+visualize results of random forest models and will soon be available again on
+CRAN.&lt;/p>
 &lt;/div>
-&lt;/div>
-&lt;div id="lately" class="section level1">
-&lt;h1>LATELY&lt;/h1>
 &lt;div id="r-shiny" class="section level2">
 &lt;h2>R SHINY&lt;/h2>
-&lt;p>I currently work on the development of multiple Shiny apps e.g. for the
-European Heart Failure Score project and others.&lt;/p>
+&lt;p>Lately, I developed a passion for R Shiny and I currently work on multiple
+Shiny apps e.g. for predictive scores in the domain of cardiology.&lt;/p>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
