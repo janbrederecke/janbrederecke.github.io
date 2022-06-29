@@ -1,0 +1,58 @@
+---
+title: "IMPRESSUM / DATENSCHUTZ"
+date: '2022-06-24'
+---
+
+# Impressum / Imprint
+
+### Verantwortlichkeit / Responsibility
+
+Verantwortlich für die Inhalte unter dem Benutzerkonto [**janbrederecke**](https://github.com/janbrederecke) sowie der durch Github-Pages gehosteten Website [**janbrederecke.github.io**](https://janbrederecke.github.io):
+
+/
+
+Responsible for the content under the user account [**janbrederecke**](https://github.com/janbrederecke) as well as the website hosted by Github-Pages [**janbrederecke.github.io**](https://janbrederecke.github.io):
+
+<br>
+
+Jan Brederecke
+
+Röttgerstraße 1
+
+30451 Hannover 
+
+Deutschland / Germany
+
+Telefon / phone: +49 157 582 061 25 
+
+E-Mail: bredereckejan [at] gmail . com 
+
+<br>
+
+### Haftungshinweis / Disclaimer
+
+Auch trotz sorgfältiger Kontrolle vor jeder Verlinkung im Rahmen meiner Aktivitäten über das Benutzerprofil ([**janbrederecke**](https://github.com/janbrederecke)) sowie der durch Github-Pages gehosteten Website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) übernehme ich keine Haftung für die Inhalte externer Links. Externe Links sind daran zu erkennen, dass sie auf eine Webadresse außerhalb von <https://github.com/janbrederecke> oder <https://janbrederecke.github.io> verweisen. Für den Inhalt der von mir verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Diese Seiten wurden von mir zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen überprüft, eine regelmäßige Kontrolle aller verlinkten Seiten ist jedoch ohne konkreten Anlass nicht zumutbar. Sollten mir entsprechende Rechtsverletzungen bekanntwerden, werde ich die entsprechenden Links selbstverständlich umgehend löschen. 
+
+/
+
+Even despite careful control before each linking under the user account ([**janbrederecke**](https://github.com/janbrederecke)) as well as the website hosted by Github-Pages ([**janbrederecke.github.io**](https://janbrederecke.github.io)), I assume no liability for the content of external links. External links can be recognized by the fact that they point to webadresses outside of <https://github.com/janbrederecke> or <https://janbrederecke.github.io>. For the content of the pages linked by me are solely responsible for their operators. These pages were checked by me at the time of linking for obvious violations of the law, but a regular check of all linked pages is not reasonable without specific cause. Should I become aware of any such infringements, I will of course delete the corresponding links immediately.
+
+# Datenschutzerklärung (DSGVO) / Data Protection Policy (GDPR)
+
+Von mir werden weder im Rahmen dieses Github Benutzerkontos ([**janbrederecke**](https://github.com/janbrederecke)) und seiner Repositories, noch im Rahmen der auf Github-Pages gehosteten Website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden von mir auch keine Cookies oder Dienste wie Google Analytics verwendet. Sollten Sie mir beispielsweise durch Kontaktaufnahme per Email dennoch persönliche Daten von Ihnen zukommen lassen, so werde ich diese generell nach spätestens sieben Tagen löschen, auf Anfrage auch unverzüglich. 
+
+/
+
+No personal data is collected, stored or processed by me in the context of this Github user account ([**janbrederecke**](https://github.com/janbrederecke)) and its repositories, nor in the context of the website hosted on Github pages ([**janbrederecke.github.io**](https://janbrederecke.github.io)). I also do not use cookies or services like Google Analytics. Should you, nonetheless, by email or otherwise send any personal data of yours to me, I will generally delete it after seven days. You can contact me in this case and I will delete the data immediately.
+
+### Verweis auf Dritte / Third Party Inclusion
+
+Die Website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) wurde mithilfe von [Hugo](https://gohugo.io) und dem [KeepIt](https://github.com/Fastbyte01/KeepIt) Theme erstellt. Trotz grundsätzlicher Auslieferung aller Inhalte vom Server direkt, verwendet das Theme browserabhängig externe Inhalte wie Javascript, CSS und Fonts, die vom Benutzer heruntergeladen werden müssen, um die Internetseite ansehen zu können. Hierbei kann es zur Übermittlung entsprechender Daten des Websitebesuchers an die jeweiligen externen Server (z.B. fonts.gstatic.com) kommen.
+
+Sowohl dieser Benutzeraccount ([**janbrederecke**](https://github.com/janbrederecke)) und seine Repositories als auch die Website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) werden auf [**Github**](https://github.com) gehostet. Ich habe keinen Einfluss auf die Erhebung und Verarbeitung von Nutzerdaten sowie das setzen von Cookies auf Github. Die Github Global Privacy Practices können [**hier**](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) abgerufen werden. Die Website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) nutzt das Angebot von Github-Pages, ein Github-Repository auf Github selber als Website zu hosten. Eine Erklärung dazu ist [**hier**](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) verfügbar. 
+
+/
+
+The website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) was built with [Hugo](https://gohugo.io) and the [KeepIt](https://github.com/Fastbyte01/KeepIt) theme. Although basically all contents are delivered directly from the server, the theme uses - depending on the browser - external content like Javascript, CSS, and fonts which have to be downloaded by the visitor to view the site. Thereby respective data can be transferred to the respective external server (e.g., fonts.gstatic.com).
+
+Both this user account ([**janbrederecke**](https://github.com/janbrederecke)) and its repositories and the website ([**janbrederecke.github.io**](https://janbrederecke.github.io)) are hosted on [**Github**](https://github.com). I have no influence on the collection and processing of user data and the setting of cookies on Github. The Github Global Privacy Practices can be accessed [**here**](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices). The website uses Github Pages' offer to host a Github repository on Github itself as a website. An explanation of this is available [**here**](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
