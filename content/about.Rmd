@@ -22,7 +22,7 @@ my doctoral thesis.
 ## RESEARCH
 As a researcher / research analyst I have authored and co-authored several
 research papers, most of which should be listed
-[*here*](https://scholar.google.com/citations?user=fzccSmMAAAAJ/).
+[*here*](https://scholar.google.com/citations?user=fzccSmMAAAAJ).
 
 ## R PACKAGES
 When I find the time, I develop R packages that are designed to improve data
