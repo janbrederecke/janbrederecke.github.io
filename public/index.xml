@@ -1,121 +1,87 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>JAN BREDERECKE on JAN BREDERECKE</title>
-    <link>https://janbrederecke.github.io/</link>
-    <description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>ABOUT</title>
-      <link>https://janbrederecke.github.io/about/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://janbrederecke.github.io/about/</guid>
-      <description>
-
-
-&lt;div id=&#34;background&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;BACKGROUND&lt;/h1&gt;
-&lt;p&gt;I have both a bachelor’s and a master’s degree in psychology. After my studies I
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JAN BREDERECKE on JAN BREDERECKE</title><link>https://janbrederecke.github.io/</link><description>Recent content in JAN BREDERECKE on JAN BREDERECKE</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://janbrederecke.github.io/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://janbrederecke.github.io/posts/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/posts/</guid><description/></item><item><title>ABOUT</title><link>https://janbrederecke.github.io/about/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/about/</guid><description>
+&lt;div id="background" class="section level1">
+&lt;h1>BACKGROUND&lt;/h1>
+&lt;p>I have both a bachelor’s and a master’s degree in psychology. After my studies I
 initially worked as a researcher in psycho-oncology before transitioning to the
 domain of epidemiology. Here I use a mixture of classical statistical
 and modern machine learning methods to conduct lots of survival analyses in
 different cohort studies and build predictive models for the onset of
 cardiovascular disease. I have been using R since I was an undergraduate and
 still learn something R everyday! As a side-hustle I am currently finalizing
-my doctoral thesis.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;publications&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;PUBLICATIONS&lt;/h1&gt;
-&lt;div id=&#34;research&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;RESEARCH&lt;/h2&gt;
-&lt;p&gt;As a researcher / research analyst I have authored and co-authored several
+my doctoral thesis.&lt;/p>
+&lt;/div>
+&lt;div id="publications" class="section level1">
+&lt;h1>PUBLICATIONS&lt;/h1>
+&lt;div id="research" class="section level2">
+&lt;h2>RESEARCH&lt;/h2>
+&lt;p>As a researcher / research analyst I have authored and co-authored several
 research papers, most of which should be listed
-&lt;a href=&#34;https://scholar.google.com/citations?user=fzccSmMAAAAJ&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r-packages&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R PACKAGES&lt;/h2&gt;
-&lt;p&gt;When I find the time, I develop R packages that are designed to improve data
+&lt;a href="https://scholar.google.com/citations?user=fzccSmMAAAAJ">&lt;em>here&lt;/em>&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;div id="r-packages" class="section level2">
+&lt;h2>R PACKAGES&lt;/h2>
+&lt;p>When I find the time, I develop R packages that are designed to improve data
 analysis workflows in my current projects.
-Right now I work on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/janbrederecke/prepareD/&#34;&gt;&lt;em&gt;prepareD&lt;/em&gt;&lt;/a&gt; - functions for data
-preparation, project templates, and documentation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/janbrederecke/analyzeD/&#34;&gt;&lt;em&gt;analyzeD&lt;/em&gt;&lt;/a&gt; - functions for
+Right now I work on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/janbrederecke/prepareD/">&lt;em>prepareD&lt;/em>&lt;/a> - functions for data
+preparation, project templates, and documentation.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/analyzeD/">&lt;em>analyzeD&lt;/em>&lt;/a> - functions for
 automated linear, logistic, and Cox regressions across multiple predictors /
-outcomes.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/janbrederecke/visualizeD/&#34;&gt;&lt;em&gt;visualizeD&lt;/em&gt;&lt;/a&gt; - functions for
-often used variants of ggplot2 visualizations.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/janbrederecke/predicteD/&#34;&gt;&lt;em&gt;predicteD&lt;/em&gt;&lt;/a&gt; - functions to help
+outcomes.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/visualizeD/">&lt;em>visualizeD&lt;/em>&lt;/a> - functions for
+often used variants of ggplot2 visualizations.&lt;/li>
+&lt;li>&lt;a href="https://github.com/janbrederecke/predicteD/">&lt;em>predicteD&lt;/em>&lt;/a> - functions to help
 build Shiny apps based on predictive models that cannot be exporting including
-the original data (important e.g. in Cox-models).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Some of the packages are still in their early development
+the original data (important e.g. in Cox-models).&lt;/li>
+&lt;/ul>
+&lt;p>Some of the packages are still in their early development
 stages but will be be updated regularly in the future.
 Additionally, I am a contributor to the
-&lt;a href=&#34;https://github.com/johnkarlen/climbeR/&#34;&gt;&lt;em&gt;climbeR&lt;/em&gt;&lt;/a&gt; package that is designed to
+&lt;a href="https://github.com/johnkarlen/climbeR/">&lt;em>climbeR&lt;/em>&lt;/a> package that is designed to
 visualize results of random forest models and will soon be available again on
-CRAN.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r-shiny&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R SHINY&lt;/h2&gt;
-&lt;p&gt;Lately, I developed a passion for R Shiny and I currently work on multiple
-Shiny apps e.g. for predictive scores in the domain of cardiology.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IMPRESSUM / DATENSCHUTZ</title>
-      <link>https://janbrederecke.github.io/impressum/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://janbrederecke.github.io/impressum/</guid>
-      <description>
-
-
-&lt;div id=&#34;impressum-imprint&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Impressum / Imprint&lt;/h1&gt;
-&lt;div id=&#34;verantwortlichkeit-responsibility&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Verantwortlichkeit / Responsibility&lt;/h3&gt;
-&lt;p&gt;Verantwortlich für die Inhalte unter dem Benutzerkonto &lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt; sowie der durch Github-Pages gehosteten Website &lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;/&lt;/p&gt;
-&lt;p&gt;Responsible for the content under the user account &lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt; as well as the website hosted by Github-Pages &lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Jan Brederecke&lt;/p&gt;
-&lt;p&gt;Röttgerstraße 1&lt;/p&gt;
-&lt;p&gt;30451 Hannover&lt;/p&gt;
-&lt;p&gt;Deutschland / Germany&lt;/p&gt;
-&lt;p&gt;Telefon / phone: +49 157 582 061 25&lt;/p&gt;
-&lt;p&gt;E-Mail: bredereckejan [at] gmail . com&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;haftungshinweis-disclaimer&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Haftungshinweis / Disclaimer&lt;/h3&gt;
-&lt;p&gt;Auch trotz sorgfältiger Kontrolle vor jeder Verlinkung im Rahmen meiner Aktivitäten über das Benutzerprofil (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) sowie der durch Github-Pages gehosteten Website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) übernehme ich keine Haftung für die Inhalte externer Links. Externe Links sind daran zu erkennen, dass sie auf eine Webadresse außerhalb von &lt;a href=&#34;https://github.com/janbrederecke&#34; class=&#34;uri&#34;&gt;https://github.com/janbrederecke&lt;/a&gt; oder &lt;a href=&#34;https://janbrederecke.github.io&#34; class=&#34;uri&#34;&gt;https://janbrederecke.github.io&lt;/a&gt; verweisen. Für den Inhalt der von mir verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Diese Seiten wurden von mir zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen überprüft, eine regelmäßige Kontrolle aller verlinkten Seiten ist jedoch ohne konkreten Anlass nicht zumutbar. Sollten mir entsprechende Rechtsverletzungen bekanntwerden, werde ich die entsprechenden Links selbstverständlich umgehend löschen.&lt;/p&gt;
-&lt;p&gt;/&lt;/p&gt;
-&lt;p&gt;Even despite careful control before each linking under the user account (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) as well as the website hosted by Github-Pages (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;), I assume no liability for the content of external links. External links can be recognized by the fact that they point to webadresses outside of &lt;a href=&#34;https://github.com/janbrederecke&#34; class=&#34;uri&#34;&gt;https://github.com/janbrederecke&lt;/a&gt; or &lt;a href=&#34;https://janbrederecke.github.io&#34; class=&#34;uri&#34;&gt;https://janbrederecke.github.io&lt;/a&gt;. For the content of the pages linked by me are solely responsible for their operators. These pages were checked by me at the time of linking for obvious violations of the law, but a regular check of all linked pages is not reasonable without specific cause. Should I become aware of any such infringements, I will of course delete the corresponding links immediately.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;datenschutzerklärung-dsgvo-data-protection-policy-gdpr&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Datenschutzerklärung (DSGVO) / Data Protection Policy (GDPR)&lt;/h1&gt;
-&lt;p&gt;Von mir werden weder im Rahmen dieses Github Benutzerkontos (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) und seiner Repositories, noch im Rahmen der auf Github-Pages gehosteten Website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden von mir auch keine Cookies oder Dienste wie Google Analytics verwendet. Sollten Sie mir beispielsweise durch Kontaktaufnahme per Email dennoch persönliche Daten von Ihnen zukommen lassen, so werde ich diese generell nach spätestens sieben Tagen löschen, auf Anfrage auch unverzüglich.&lt;/p&gt;
-&lt;p&gt;/&lt;/p&gt;
-&lt;p&gt;No personal data is collected, stored or processed by me in the context of this Github user account (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) and its repositories, nor in the context of the website hosted on Github pages (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;). I also do not use cookies or services like Google Analytics. Should you, nonetheless, by email or otherwise send any personal data of yours to me, I will generally delete it after seven days. You can contact me in this case and I will delete the data immediately.&lt;/p&gt;
-&lt;div id=&#34;verweis-auf-dritte-third-party-inclusion&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Verweis auf Dritte / Third Party Inclusion&lt;/h3&gt;
-&lt;p&gt;Die Website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) wurde mithilfe von &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; und dem &lt;a href=&#34;https://github.com/Fastbyte01/KeepIt&#34;&gt;KeepIt&lt;/a&gt; Theme erstellt. Trotz grundsätzlicher Auslieferung aller Inhalte vom Server direkt, verwendet das Theme browserabhängig externe Inhalte wie Javascript, CSS und Fonts, die vom Benutzer heruntergeladen werden müssen, um die Internetseite ansehen zu können. Hierbei kann es zur Übermittlung entsprechender Daten des Websitebesuchers an die jeweiligen externen Server (z.B. fonts.gstatic.com) kommen.&lt;/p&gt;
-&lt;p&gt;Sowohl dieser Benutzeraccount (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) und seine Repositories als auch die Website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) werden auf &lt;a href=&#34;https://github.com&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt; gehostet. Ich habe keinen Einfluss auf die Erhebung und Verarbeitung von Nutzerdaten sowie das setzen von Cookies auf Github. Die Github Global Privacy Practices können &lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices&#34;&gt;&lt;strong&gt;hier&lt;/strong&gt;&lt;/a&gt; abgerufen werden. Die Website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) nutzt das Angebot von Github-Pages, ein Github-Repository auf Github selber als Website zu hosten. Eine Erklärung dazu ist &lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34;&gt;&lt;strong&gt;hier&lt;/strong&gt;&lt;/a&gt; verfügbar.&lt;/p&gt;
-&lt;p&gt;/&lt;/p&gt;
-&lt;p&gt;The website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) was built with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and the &lt;a href=&#34;https://github.com/Fastbyte01/KeepIt&#34;&gt;KeepIt&lt;/a&gt; theme. Although basically all contents are delivered directly from the server, the theme uses - depending on the browser - external content like Javascript, CSS, and fonts which have to be downloaded by the visitor to view the site. Thereby respective data can be transferred to the respective external server (e.g., fonts.gstatic.com).&lt;/p&gt;
-&lt;p&gt;Both this user account (&lt;a href=&#34;https://github.com/janbrederecke&#34;&gt;&lt;strong&gt;janbrederecke&lt;/strong&gt;&lt;/a&gt;) and its repositories and the website (&lt;a href=&#34;https://janbrederecke.github.io&#34;&gt;&lt;strong&gt;janbrederecke.github.io&lt;/strong&gt;&lt;/a&gt;) are hosted on &lt;a href=&#34;https://github.com&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;. I have no influence on the collection and processing of user data and the setting of cookies on Github. The Github Global Privacy Practices can be accessed &lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. The website uses Github Pages’ offer to host a Github repository on Github itself as a website. An explanation of this is available &lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+CRAN.&lt;/p>
+&lt;/div>
+&lt;div id="r-shiny" class="section level2">
+&lt;h2>R SHINY&lt;/h2>
+&lt;p>Lately, I developed a passion for R Shiny and I currently work on multiple
+Shiny apps e.g. for predictive scores in the domain of cardiology.&lt;/p>
+&lt;/div>
+&lt;/div></description></item><item><title>IMPRESSUM / DATENSCHUTZ</title><link>https://janbrederecke.github.io/impressum/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://janbrederecke.github.io/impressum/</guid><description>
+&lt;div id="impressum-imprint" class="section level1">
+&lt;h1>Impressum / Imprint&lt;/h1>
+&lt;div id="verantwortlichkeit-responsibility" class="section level3">
+&lt;h3>Verantwortlichkeit / Responsibility&lt;/h3>
+&lt;p>Verantwortlich für die Inhalte unter dem Benutzerkonto &lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a> sowie der durch Github-Pages gehosteten Website &lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>:&lt;/p>
+&lt;p>/&lt;/p>
+&lt;p>Responsible for the content under the user account &lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a> as well as the website hosted by Github-Pages &lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>:&lt;/p>
+&lt;p>&lt;br>&lt;/p>
+&lt;p>Jan Brederecke&lt;/p>
+&lt;p>Röttgerstraße 1&lt;/p>
+&lt;p>30451 Hannover&lt;/p>
+&lt;p>Deutschland / Germany&lt;/p>
+&lt;p>Telefon / phone: +49 157 582 061 25&lt;/p>
+&lt;p>E-Mail: bredereckejan [at] gmail . com&lt;/p>
+&lt;p>&lt;br>&lt;/p>
+&lt;/div>
+&lt;div id="haftungshinweis-disclaimer" class="section level3">
+&lt;h3>Haftungshinweis / Disclaimer&lt;/h3>
+&lt;p>Auch trotz sorgfältiger Kontrolle vor jeder Verlinkung im Rahmen meiner Aktivitäten über das Benutzerprofil (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) sowie der durch Github-Pages gehosteten Website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) übernehme ich keine Haftung für die Inhalte externer Links. Externe Links sind daran zu erkennen, dass sie auf eine Webadresse außerhalb von &lt;a href="https://github.com/janbrederecke" class="uri">https://github.com/janbrederecke&lt;/a> oder &lt;a href="https://janbrederecke.github.io" class="uri">https://janbrederecke.github.io&lt;/a> verweisen. Für den Inhalt der von mir verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Diese Seiten wurden von mir zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen überprüft, eine regelmäßige Kontrolle aller verlinkten Seiten ist jedoch ohne konkreten Anlass nicht zumutbar. Sollten mir entsprechende Rechtsverletzungen bekanntwerden, werde ich die entsprechenden Links selbstverständlich umgehend löschen.&lt;/p>
+&lt;p>/&lt;/p>
+&lt;p>Even despite careful control before each linking under the user account (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) as well as the website hosted by Github-Pages (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>), I assume no liability for the content of external links. External links can be recognized by the fact that they point to webadresses outside of &lt;a href="https://github.com/janbrederecke" class="uri">https://github.com/janbrederecke&lt;/a> or &lt;a href="https://janbrederecke.github.io" class="uri">https://janbrederecke.github.io&lt;/a>. For the content of the pages linked by me are solely responsible for their operators. These pages were checked by me at the time of linking for obvious violations of the law, but a regular check of all linked pages is not reasonable without specific cause. Should I become aware of any such infringements, I will of course delete the corresponding links immediately.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="datenschutzerklärung-dsgvo-data-protection-policy-gdpr" class="section level1">
+&lt;h1>Datenschutzerklärung (DSGVO) / Data Protection Policy (GDPR)&lt;/h1>
+&lt;p>Von mir werden weder im Rahmen dieses Github Benutzerkontos (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) und seiner Repositories, noch im Rahmen der auf Github-Pages gehosteten Website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden von mir auch keine Cookies oder Dienste wie Google Analytics verwendet. Sollten Sie mir beispielsweise durch Kontaktaufnahme per Email dennoch persönliche Daten von Ihnen zukommen lassen, so werde ich diese generell nach spätestens sieben Tagen löschen, auf Anfrage auch unverzüglich.&lt;/p>
+&lt;p>/&lt;/p>
+&lt;p>No personal data is collected, stored or processed by me in the context of this Github user account (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) and its repositories, nor in the context of the website hosted on Github pages (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>). I also do not use cookies or services like Google Analytics. Should you, nonetheless, by email or otherwise send any personal data of yours to me, I will generally delete it after seven days. You can contact me in this case and I will delete the data immediately.&lt;/p>
+&lt;div id="verweis-auf-dritte-third-party-inclusion" class="section level3">
+&lt;h3>Verweis auf Dritte / Third Party Inclusion&lt;/h3>
+&lt;p>Die Website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) wurde mithilfe von &lt;a href="https://gohugo.io">Hugo&lt;/a> und dem &lt;a href="https://github.com/Fastbyte01/KeepIt">KeepIt&lt;/a> Theme erstellt. Trotz grundsätzlicher Auslieferung aller Inhalte vom Server direkt, verwendet das Theme browserabhängig externe Inhalte wie Javascript, CSS und Fonts, die vom Benutzer heruntergeladen werden müssen, um die Internetseite ansehen zu können. Hierbei kann es zur Übermittlung entsprechender Daten des Websitebesuchers an die jeweiligen externen Server (z.B. fonts.gstatic.com) kommen.&lt;/p>
+&lt;p>Sowohl dieser Benutzeraccount (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) und seine Repositories als auch die Website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) werden auf &lt;a href="https://github.com">&lt;strong>Github&lt;/strong>&lt;/a> gehostet. Ich habe keinen Einfluss auf die Erhebung und Verarbeitung von Nutzerdaten sowie das setzen von Cookies auf Github. Die Github Global Privacy Practices können &lt;a href="https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices">&lt;strong>hier&lt;/strong>&lt;/a> abgerufen werden. Die Website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) nutzt das Angebot von Github-Pages, ein Github-Repository auf Github selber als Website zu hosten. Eine Erklärung dazu ist &lt;a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">&lt;strong>hier&lt;/strong>&lt;/a> verfügbar.&lt;/p>
+&lt;p>/&lt;/p>
+&lt;p>The website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) was built with &lt;a href="https://gohugo.io">Hugo&lt;/a> and the &lt;a href="https://github.com/Fastbyte01/KeepIt">KeepIt&lt;/a> theme. Although basically all contents are delivered directly from the server, the theme uses - depending on the browser - external content like Javascript, CSS, and fonts which have to be downloaded by the visitor to view the site. Thereby respective data can be transferred to the respective external server (e.g., fonts.gstatic.com).&lt;/p>
+&lt;p>Both this user account (&lt;a href="https://github.com/janbrederecke">&lt;strong>janbrederecke&lt;/strong>&lt;/a>) and its repositories and the website (&lt;a href="https://janbrederecke.github.io">&lt;strong>janbrederecke.github.io&lt;/strong>&lt;/a>) are hosted on &lt;a href="https://github.com">&lt;strong>Github&lt;/strong>&lt;/a>. I have no influence on the collection and processing of user data and the setting of cookies on Github. The Github Global Privacy Practices can be accessed &lt;a href="https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices">&lt;strong>here&lt;/strong>&lt;/a>. The website uses Github Pages’ offer to host a Github repository on Github itself as a website. An explanation of this is available &lt;a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">&lt;strong>here&lt;/strong>&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
