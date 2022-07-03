@@ -1,0 +1,85 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="chrome=1"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=robots content="noodp"><link rel=canonical href=https://janbrederecke.github.io/2022/2022-07-02-start/><link rel='shortcut icon' type=image/x-icon href=/favicon.ico><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5><meta name=msapplication-TileColor content="#da532c"><meta name=theme-color content="#ffffff"><title>How I Started Blogging with blogdown, Hugo, and the KeepIt Theme (overview) | JAN BREDERECKE</title><meta name=title content="How I Started Blogging with blogdown, Hugo, and the KeepIt Theme (overview) | JAN BREDERECKE"><link rel=stylesheet href=/font/iconfont.css><link rel=stylesheet href=/css/main.min.css><meta name=twitter:card content="summary"><meta name=twitter:title content="How I Started Blogging with blogdown, Hugo, and the KeepIt Theme (overview)"><meta name=twitter:description content="tl;dr It might be a good weekend’s work, but it is fun, so do it! as Shia LaBeouf famously said…
+Why start a blog in the first place? Looking at the ever-growing number of blogs dedicated to topics like data science and R, it might seem pointless to some to jump on the bandwagon and set up their own. This might also be amplified by a feeling of not yet being good enough or the more general question of what to contribute to the incredible amount of available information on R, data science, and basically everything around them."><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"How I Started Blogging with blogdown, Hugo, and the KeepIt Theme (overview)","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/janbrederecke.github.io\/2022\/2022-07-02-start\/"},"image":{"@type":"ImageObject","url":"https:\/\/janbrederecke.github.io\/cover.png","width":800,"height":600},"genre":"posts","keywords":"R, blogdown, Hugo, KeepIt, GitHub Actions","wordcount":779,"url":"https:\/\/janbrederecke.github.io\/2022\/2022-07-02-start\/","datePublished":"2022-07-03T00:00:00\u002b00:00","dateModified":"2022-07-03T00:00:00\u002b00:00","publisher":{"@type":"Organization","name":"Fastbyte01","logo":{"@type":"ImageObject","url":"https:\/\/janbrederecke.github.io\/logo.png","width":127,"height":40}},"author":{"@type":"Person","name":"Jan Brederecke"},"description":""}</script></head><body><div class=wrapper><nav class=navbar><div class=container><div class="navbar-header header-logo"><a href=https://janbrederecke.github.io/><img src=/pic.png width=150></a></div><div class="menu navbar-right"><a class=menu-item href=/posts/ title>BLOG</a>
+<a class=menu-item href=/about title>ABOUT</a>
+<a href=javascript:void(0); class=theme-switch><i class="iconfont icon-sun"></i></a>&nbsp;</div></div></nav><nav class=navbar-mobile id=nav-mobile style=display:none><div class=container><div class=navbar-header><div><a href=https://janbrederecke.github.io/ class=header-logo-mobile><img src=/pic.png width=90></a></div><div><a href=javascript:void(0); class=theme-switch><i class="iconfont icon-sun"></i></a></div><div class=menu-toggle><span></span><span></span><span></span></div></div><div class=menu id=mobile-menu><a class=menu-item href=/posts/ title>BLOG</a>
+<a class=menu-item href=/about title>ABOUT</a></div></div></nav><main class=main><div class=container><article class=post-warp><header class=post-header><h1 class=post-title>How I Started Blogging with blogdown, Hugo, and the KeepIt Theme (overview)</h1><div class=post-meta>Written by <a href=https://janbrederecke.github.io/ rel=author>Jan Brederecke</a>
+<span class=post-time>on <time datetime=2022-07-03>3 July 2022</time></span>
+in
+<i class="iconfont icon-folder"></i>
+<span class=post-category><a href=https://janbrederecke.github.io/categories/r/>R</a></span>
+<i class="iconfont icon-timer"></i>
+4 min</div></header><div class=post-content><div id=tldr class="section level1"><h1>tl;dr</h1><p>It might be a good weekend’s work, but it is fun, so <em>do it!</em> as
+<a href="https://www.youtube.com/watch?v=ZXsQAXx_ao0/">Shia LaBeouf</a> famously said…</p></div><div id=why-start-a-blog-in-the-first-place class="section level1"><h1>Why start a blog in the first place?</h1><p>Looking at the ever-growing number of blogs dedicated to topics like data
+science and R, it might seem pointless to some to jump on the bandwagon and set
+up their own. This might also be amplified by a feeling of not yet being
+good enough or the more general question of what to contribute to the incredible
+amount of available information on R, data science, and basically everything
+around them. (Those who might not understand this feeling, just observe a day or
+week on <a href=https://r-bloggers.com/>R-Bloggers</a>, and you will know what
+I mean…)
+This feeling has kept me from starting a blog for quite some time. Still, I
+finally found my answer: R and data science are fast-changing phenomena, and you
+might be (or even just feel like you are) on top of the game regarding whatever
+you did that day, week, or month, so why not report it and potentially help
+others? After reading myriads of blog posts over the years, I feel this drives
+most people with the most incredible blogs. Additionally, it is a
+phenomenal opportunity to learn new and grow existing skills on the way as
+there is probably no better way to consolidate what you just learned. Lastly,
+those who know they might be looking for a new job soon can proactively shape
+what recruiters and future employers are likely to find when they get looked up
+on the internet – which can be expected to happen. So, if you are like me and
+have already regularly played with the idea of setting up a blog for yourself,
+just go ahead and <em>do it</em> the next time you have a day or two’s work to invest!
+Hopefully, the following paragraphs and blogposts will be somewhat helpful in
+this regard.</p></div><div id=so-how-did-i-do-it class="section level1"><h1>So, how did I do it?</h1><p>After careful consideration, I finally decided to <em>just do it</em> that upcoming
+weekend and this was when the fun began. As an R user by faith, I had no choice
+but to use the <a href=https://github.com/rstudio/blogdown/>blogdown</a> package and
+<a href=https://gohugo.io/>Hugo</a>, an open-source website generator framework that is
+advertized as relatively easy to use, even for people like me who never
+seriously touched the typical web stack
+(<a href=https://developer.mozilla.org/en-US/docs/Learn/>HTML, CSS, JavaScript</a>)
+before. You could use website builders like
+<a href=https://wordpress.com/en/>WordPress</a> as well, but blogdown makes it maximally
+easy to create a website like this in R using RMarkdown files as the individual
+pages and for posts.
+These can then be rendered into HTML files that are incorporated into a Hugo
+theme which defines the website’s overall look and is selected by the user.
+All of this with R-functions from the blogdown-package.
+This is actually <em>pretty easy</em> when you don’t go too crazy regarding
+modifications.
+There is lots of excellent documentation on how to do all this using the already
+classic <a href=https://github.com/wowchemy/starter-hugo-academic/>Academic Theme</a>,
+e.g., in this <a href=https://academic-demo.netlify.app/>Academic Theme Demo Site</a>.
+But as for me, I wanted to have a more minimalist look which led me to use the
+<a href=https://themes.gohugo.io/themes/keepit/>KeepIt</a> theme: Here, things get a
+bit more interesting when using blogdown. Essentially, everything is the same, but
+as stated in the documentation of <em>KeepIt</em>, you must render the site in a
+production environment and I could not find out how to do this using R-functions, which
+added the minor inconvenience of having to use a BASH command additionally
+each time I update the site (e.g., when writing a new blog post).
+Nevertheless, I am pretty happy that I chose KeepIt because I like the site’s
+looks and felt the minimalist approach might have helped me navigate the included
+files when I tried to modify the theme, e.g., when swapping the username for my
+little cartoon character in the upper-left corner. Still, the choice is yours and
+there are many pretty cool <a href=https://themes.gohugo.io/>themes</a> available.</p></div><div id=what-have-i-learned-by-setting-up-this-website class="section level1"><h1>What have I learned by setting up this website?</h1><p>As somebody interested in R and in the emerging world of Shiny apps, basic
+knowledge of web development is a must-have, and all the time I spent hands-on
+in the HTML, CSS, and JavaScript files really got me kickstarted with a lot of
+things that I was wanting to learn in the future anyway.
+This is a big plus but there is so much more you learn like using GitHub
+Pages, GitHub Actions, and possibly some basic usage of your Terminal if you did
+not use it before. So, stay tuned as I will prepare detailed step-by-step posts
+on all the individual steps necessary to set up a blog like this using Hugo,
+blogdown, and GitHub Pages!</p></div></div><div class=post-copyright><p class=copyright-item><span>Author:</span>
+<span>JAN BREDERECKE</span></p><p class=copyright-item><span>Words:</span>
+<span>779</span></p><p class=copyright-item><span>Share:</span>
+<span></span></p><p class=copyright-item>Released under <a rel="license external nofollow noopener noreffer" href=https://creativecommons.org/licenses/by-nc/4.0/ target=_blank>CC BY-NC 4.0</a></p></div><div class=post-tags><section><i class="iconfont icon-icon-tag"></i>Tag:
+<span class=tag><a href=https://janbrederecke.github.io/tags/r/>#R</a></span>
+<span class=tag><a href=https://janbrederecke.github.io/tags/blogdown/>#blogdown</a></span>
+<span class=tag><a href=https://janbrederecke.github.io/tags/hugo/>#Hugo</a></span>
+<span class=tag><a href=https://janbrederecke.github.io/tags/keepit/>#KeepIt</a></span>
+<span class=tag><a href=https://janbrederecke.github.io/tags/github-actions/>#GitHub Actions</a></span></section><section><a href=javascript:window.history.back();>Back</a></span> ·
+<span><a href=https://janbrederecke.github.io/>Home</a></span></section></div><div class=post-nav></div><div class=post-comment></div></article></div></main><footer class=footer><div class=copyright>|&nbsp;&copy;
+<span itemprop=copyrightYear>2022</span>
+<span class=author itemprop=copyrightHolder><a href=https://janbrederecke.github.io/>JAN BREDERECKE</a>&nbsp;|&nbsp;</span>
+<span>MADE&nbsp;WITH&nbsp;<a href=https://github.com/Fastbyte01/KeepIt target=_blank rel="external nofollow noopener noreffer">KeepIt</a>&nbsp;&&nbsp;<a href=https://gohugo.io/ target=_blank rel="external nofollow noopener noreffer">Hugo&nbsp;|</a></span>
+<span><a href=https://janbrederecke.github.io/impressum target=_blank rel="external nofollow noopener noreffer">|&nbsp;IMPRESSUM&nbsp;&&nbsp;DATENSCHUTZ&nbsp;/&nbsp;(IMPRINT&nbsp;&&nbsp;DATA&nbsp;POLICY)&nbsp;|</a></span></div></footer><script src=/js/vendor_no_gallery.min.js async></script></div></body></html>
