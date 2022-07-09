@@ -71,6 +71,11 @@ files when I tried to modify the theme, e.g., when swapping the username for my
 little cartoon character in the upper-left corner. Still, the choice is yours and
 there are many pretty cool [themes](https://themes.gohugo.io/) available.
 
+The figure below shows a rough overview on what technologies are utilized when
+setting up a blog like this using blogdown and GitHub Pages.
+
+![overview](overview.jpeg)
+
 # What have I learned by setting up this website?
 As somebody interested in R and in the emerging world of Shiny apps, basic
 knowledge of web development is a must-have, and all the time I spent hands-on
